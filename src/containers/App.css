@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Robotic Cyborg Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Robotic Cyborg Regular'), url('Robotic Cyborg.woff') format('woff');
+}
+
+h1{
+  font-family: 'Robotic Cyborg Regular';
+  color: #00ffe9;
+  font-size: 55px !important;
+  margin: 15px !important;
+ }
